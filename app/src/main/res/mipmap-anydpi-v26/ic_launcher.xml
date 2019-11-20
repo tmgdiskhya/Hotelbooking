@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item name="android.bluetooth.BluetoothAdapter android.bluetooth.BluetoothServerSocket listenUsingInsecureRfcommWithServiceRecord(java.lang.String, java.util.UUID)">
+        <annotation name="android.support.annotation.Require
